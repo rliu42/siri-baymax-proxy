@@ -21,10 +21,7 @@ $ python3 siri_baymax.py
 ## on your iDevice
 
 - Ensure that Notes is enabled and connected with your iCloud account
-
-Talk to Siri:
-"Note Baymax, are your satisfied with your care? etc..."
+- Talk to Siri like so...
+- "Note Baymax, are your satisfied with your care? etc..."
 
 Compatible with iOS 7 and up 
-
-Compatible with iOS
