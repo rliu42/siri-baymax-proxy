@@ -30,4 +30,4 @@ where 3.X is your version of Python.
 - "_Note Baymax, are you satisfied with your care?_ etc..."
 - It may help to add "Baymax" to your Contacts list for speech recognition of proper names.
 
-Compatible with iOS 7 and up. 
+Compatible with iOS 7+. 
